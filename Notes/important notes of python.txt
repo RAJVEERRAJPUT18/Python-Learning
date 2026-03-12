@@ -1,0 +1,48 @@
+kisi bhi value ka type dekhne ke liye =tpye(us value ka name)
+complex no ke liye complex likhte h
+kisi bhi data ke type ko chnage krne ke liye type casting ka prog krte h
+typecasting  2 prkar ki hoti h 1(implicit typecasting=self krta h) 2(external)
+input lene ke liye variable=input() python me input hmesha strin me aata h ise typrecasting krte h
+string ko print krne ke liye =sigle coma(""),(''),aur multiline ke liye (''' ''') lgate h
+kisi bhi string me uski indexing ke liye =variablename[index ka no]
+python me for loop ke liye =for charcter in string name:
+                            print(charcter)
+kisi bhi string ki length nikalne ke liye =print(len(string name))
+
+
+
+
+🧰 Most Useful Python Modules (Built-in)
+Module	                                    Use / Description
+math	                                    Mathematical functions (like sqrt, ceil, floor, sin, etc.)
+random	                                    Generate random numbers, choices, shuffling
+datetime	                                    Work with dates and times
+time	                                    Measure execution time, add delays, timestamps
+os	                                    Interact with the operating system (folders, files, env vars)
+sys	                                    Access system-specific parameters, arguments
+json	                                    Parse and generate JSON data
+re	                                    Regular expressions (pattern matching)
+statistics	                                    Basic statistics (mean, median, mode, stdev)
+collections	                                    Specialized data structures (like Counter, defaultdict, deque)
+itertools	P                                    owerful tools for iterating (combinations, permutations, etc.)
+functools	                                    Higher-order functions (like lru_cache, reduce, partial)
+operator	                                    Standard operators as functions
+csv	Read and write CSV files
+shutil	                                    High-level file operations (copying, moving, archiving)
+logging	                                    Built-in logging support (instead of print statements)
+urllib	                                    Work with URLs and HTTP (basic web requests)
+tkinter	                                    Create simple GUI applications (Windows, buttons, etc.)
+
+📦 Popular Third-Party Modules (Need to Install via pip)
+Module	                                    Use
+numpy	                                    Numerical computations, arrays
+pandas	                                    Data analysis, dataframes
+matplotlib	                                    Data visualization
+requests	                                    HTTP requests (APIs, web access)
+flask / django	                                    Web development
+beautifulsoup4	                                    Web scraping
+scikit-learn	                                    Machine learning
+opencv	                                    Computer vision
+pytube,                                     youtube_dl	Download videos
+pygame	                                    Simple 2D games
+
